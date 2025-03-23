@@ -1,4 +1,5 @@
 # UNSIEN Project
+![Your GIF](https://i.imgur.com/BuPRC4m.gif)
 
 ## Introduction
 **UNSIEN** is a secure messaging app designed to prioritize information security with end-to-end encryption and exclusive access for authenticated users. It emphasizes control over government or organizational communication, ensuring confidentiality and privacy.
